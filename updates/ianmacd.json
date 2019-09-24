@@ -1,22 +1,18 @@
 {
   "app": {
-    "version": "7.3.5-2019092201-ianmacd",
-    "versionCode": "2019092201",
-    "link": "https://github.com/ianmacd/MagiskBuilds/raw/master/MagiskManager-v7.3.5-2019092201-ianmacd.apk",
-    "note": ""
+    "version": "7.3.4-debd1d7d",
+    "versionCode": "238",
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/app-release.apk",
+    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md"
   },
   "magisk": {
-    "version": "19.5-2019092201-ianmacd",
-    "versionCode": "2019092201",
-    "link": "https://github.com/ianmacd/MagiskBuilds/raw/master/Magisk-v19.5-2019092201-ianmacd.zip",
-    "note": "https://forum.xda-developers.com/showthread.php?t=3521901",
-    "md5": "8c1f13bae769c45852f51a3fbdce4e8e"
+    "version": "19.5-debd1d7d",
+    "versionCode": "19403",
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/magisk-release.zip",
+    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md",
+    "md5": "3cc869e9c98c3b5250d1a4f18c93afe7"
   },
   "uninstaller": {
-    "link": "https://github.com/ianmacd/MagiskBuilds/raw/master/Magisk-uninstaller-v19.5-2019092201-ianmacd.zip"
-  },
-  "snet": {
-    "versionCode": "13",
-    "link": "https://github.com/ianmacd/MagiskBuilds/raw/master/snet.apk"
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/magisk-uninstaller.zip"
   }
 }
